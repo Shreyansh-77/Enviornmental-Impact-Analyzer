@@ -1,4 +1,0 @@
-Expected to use AI model integrated within online Website to calculate impact of your product.
-
-Progress:
-  Collecting Data for AI Model.
